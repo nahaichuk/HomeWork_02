@@ -26,3 +26,4 @@ TimeSpan interval = BeginningYear - CurrentDate;
 Console.WriteLine(DaysPassed + " days left to New Year");
 
 Console.WriteLine(interval.Days + " days passed from New Year");
+//checked
